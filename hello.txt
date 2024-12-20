@@ -1,1 +1,2 @@
-hello world
+hello world 
+We are welcoming new young stars to the team.
